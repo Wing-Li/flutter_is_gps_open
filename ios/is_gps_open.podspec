@@ -4,7 +4,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'is_gps_open'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = 'Check if the device GPS is turned on'
   s.description      = <<-DESC
 Detects if device is in lock screen. Useful for determining whether app entered background due to locking screen or leaving app.

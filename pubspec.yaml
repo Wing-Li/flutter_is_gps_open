@@ -1,6 +1,6 @@
 name: is_gps_open
 description: Check if the device GPS is turned on
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/Wing-Li/flutter_is_gps_open
 
 environment:
