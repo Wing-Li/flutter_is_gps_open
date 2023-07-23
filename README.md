@@ -2,6 +2,8 @@
 
 ***
 
+[Pub - flutter_is_gps_open](https://pub.dev/packages/is_gps_open)
+
 ## Usage
 
 ```dart
