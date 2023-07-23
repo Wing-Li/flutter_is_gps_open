@@ -5,7 +5,7 @@
 ## Usage
 
 ```dart
-bool? result = await isGpsOpen();
+bool? result = await GpsStatus.isOpen();
 ```
 
 Android: Check Gps is open.
