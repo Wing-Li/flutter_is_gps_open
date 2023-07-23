@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - is_gps_open (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - is_gps_open (from `.symlinks/plugins/is_gps_open/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  is_gps_open:
+    :path: ".symlinks/plugins/is_gps_open/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  is_gps_open: 574704d2cb936ab5caad908e57ccb18dad4fd091
+
+PODFILE CHECKSUM: cc1f88378b4bfcf93a6ce00d2c587857c6008d3b
+
+COCOAPODS: 1.12.0
